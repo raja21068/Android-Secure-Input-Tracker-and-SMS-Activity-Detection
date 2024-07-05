@@ -1,0 +1,16 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="50dp">
+
+    <Row>
+        <Key android:codes="113" android:keyLabel="q" />
+        <Key android:codes="119" android:keyLabel="w" />
+        <Key android:codes="101" android:keyLabel="e" />
+        <!-- Add other keys as needed -->
+    </Row>
+
+    <!-- Add more rows as needed -->
+
+</Keyboard>
